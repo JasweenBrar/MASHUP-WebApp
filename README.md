@@ -14,7 +14,7 @@
 
 ### 💠 Tasks Performed:
     
-    ⭐ Create an email form to get inputs from user
+    ⭐ Create a form to get inputs from user
     
     ⭐ Error Handling
 
