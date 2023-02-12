@@ -7,9 +7,9 @@
 
 ### 💠 What does the website do ?
 
-      :smile: Input: Enter name of singer, no. of videos, duration of each video, email address 
+      🔹 Input: Enter name of singer, no. of videos, duration of each video, email address 
       
-      :smile: Output: A mashup of n songs of the mentioned singer of the entered duration
+      🔹 Output: A mashup of n songs of the mentioned singer of the entered duration
 
 
 ### 💠 Tasks Performed:
@@ -18,11 +18,11 @@
     
     ⭐ Error Handling
 
-    ⭐ Download `N` videos from YouTube
+    ⭐ Download N videos from YouTube
     
     ⭐ Convert the downloaded videos to audio
     
-    ⭐ Clip `y` seconds from the audio and make shorter clips
+    ⭐ Clip y seconds from the audio and make shorter clips
      
     ⭐ Combine the shorter clips to crete output mashup file
     
