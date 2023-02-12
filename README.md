@@ -5,6 +5,12 @@
 ### 💠 An amazing web app made with streamlit 
 
 
+### 💠 **Video Demonstration:**
+   
+   
+![webapp video](./images/mashup_video.mp4)
+
+
 ### 💠 What does the website do ?
 
       🔹 Input: Enter name of singer, no. of videos, duration of each video, email address 
@@ -44,7 +50,7 @@
     ✔️ smtplib, email -> to send email
 
 
-💠 **A glance of our DASHBOARD:**
+### 💠 **A glance of our web app:**
    
    
 ![webapp image](./images/website_pic.png)
